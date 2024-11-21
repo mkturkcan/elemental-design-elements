@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Page-1" id="NN9XoPNAxffE6Q33eM00">
+    <mxGraphModel dx="549" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#FFFFE6;shadow=1;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="130" width="210" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XFGla8eEuhmk0AoCdOkX-3" target="XFGla8eEuhmk0AoCdOkX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#FFF2CC;shadow=1;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="140" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot;&gt;Group A&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;shadow=0;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XFGla8eEuhmk0AoCdOkX-6" target="XFGla8eEuhmk0AoCdOkX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#FFF2CC;shadow=1;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="230" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot;&gt;Group B&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;shadow=0;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XFGla8eEuhmk0AoCdOkX-9" target="XFGla8eEuhmk0AoCdOkX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=#FFF2CC;shadow=1;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="320" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-10" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot;&gt;Process C&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFD966;shadow=1;textShadow=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-11" value="&lt;font face=&quot;Barlow&quot;&gt;Process B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFD966;shadow=1;textShadow=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-12" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot;&gt;Process E&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFD966;shadow=1;textShadow=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1312" y="235" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-13" value="&lt;div&gt;&lt;font face=&quot;Barlow&quot;&gt;Process D&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFD966;shadow=1;textShadow=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-14" value="&lt;div&gt;&lt;font face=&quot;Barlow&quot;&gt;Process A&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFD966;shadow=1;textShadow=1;arcSize=5;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeWidth=3;" edge="1" parent="1" source="XFGla8eEuhmk0AoCdOkX-18" target="XFGla8eEuhmk0AoCdOkX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1052" y="295" />
+              <mxPoint x="1052" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XFGla8eEuhmk0AoCdOkX-18" target="XFGla8eEuhmk0AoCdOkX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XFGla8eEuhmk0AoCdOkX-18" target="XFGla8eEuhmk0AoCdOkX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1052" y="245" />
+              <mxPoint x="1052" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-18" value="&lt;font face=&quot;Barlow&quot;&gt;Selector&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;rounded=1;shadow=1;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;arcSize=5;fontSize=12;fontColor=default;fillColor=#FFB570;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="942" y="220" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-19" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot;&gt;Group C&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;shadow=0;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-20" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot;&gt;Meta-Group&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;shadow=0;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="440" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XFGla8eEuhmk0AoCdOkX-25" target="XFGla8eEuhmk0AoCdOkX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="992" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-22" value="&lt;font face=&quot;Barlow&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot;&gt;Output&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;shadow=0;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="1042" y="80" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="XFGla8eEuhmk0AoCdOkX-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="179" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" target="XFGla8eEuhmk0AoCdOkX-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="942" y="150" as="targetPoint" />
+            <mxPoint x="880" y="179" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-25" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot;&gt;Preprocess&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FFD966;shadow=1;textShadow=1;arcSize=5;" vertex="1" parent="1">
+          <mxGeometry x="942" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFGla8eEuhmk0AoCdOkX-26" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot; face=&quot;Barlow&quot; style=&quot;font-size: 16px;&quot;&gt;Prototype&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="882" y="40" width="280" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
