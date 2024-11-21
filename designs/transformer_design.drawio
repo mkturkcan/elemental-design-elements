@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Page-1" id="4kEuCSF84eEPRMDyzYEm">
+    <mxGraphModel dx="-51" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="siZfAdJ2070imp9nAExk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#F3F3F4;shadow=0;textShadow=0;arcSize=5;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="990" y="214" width="250" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endSize=2;" edge="1" parent="1" source="siZfAdJ2070imp9nAExk-3" target="siZfAdJ2070imp9nAExk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-3" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot;&gt;Element&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#F2D8DA;shadow=0;textShadow=0;arcSize=5;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="880" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endSize=2;" edge="1" parent="1" source="siZfAdJ2070imp9nAExk-5" target="siZfAdJ2070imp9nAExk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-5" value="&lt;div&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Barlow&quot;&gt;Element&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#C2E9F2;shadow=0;textShadow=0;arcSize=5;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-6" value="Element" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#F1F2C2;shadow=0;textShadow=0;arcSize=5;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endSize=2;" edge="1" parent="1" source="siZfAdJ2070imp9nAExk-9" target="siZfAdJ2070imp9nAExk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endSize=2;" edge="1" parent="1" source="siZfAdJ2070imp9nAExk-9" target="siZfAdJ2070imp9nAExk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-9" value="Element" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#F2D6B3;shadow=0;textShadow=0;arcSize=5;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-10" value="Element" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#CCE7CF;shadow=0;textShadow=0;arcSize=5;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="240" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-11" value="Element" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2.5;fillColor=#DBDFEF;shadow=0;textShadow=0;arcSize=5;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Design of the Transformer&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2.5;align=center;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endSize=2;" edge="1" parent="1" source="siZfAdJ2070imp9nAExk-14" target="siZfAdJ2070imp9nAExk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-14" value="&lt;font face=&quot;Helvetica&quot;&gt;$$+$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;fontColor=default;labelBackgroundColor=none;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="1162" y="190" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="siZfAdJ2070imp9nAExk-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Text&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="237" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
