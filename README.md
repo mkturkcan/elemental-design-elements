@@ -7,7 +7,7 @@ This is a repository of design elements for researchers to use to create high-qu
 
 ### Example
 
-[<img alt="Transformer Diagram" src="https://raw.githubusercontent.com/mkturkcan/elemental-design-elements/ce6468cd8fc4c4f5dec600ba53c96db4b553d37f/renders/transformer_design.drawio.svg" />](https://github.com/mkturkcan/elemental-design-elements/blob/main/designs/transformer_design.drawio)
+[<img alt="Transformer Diagram" src="https://raw.githubusercontent.com/mkturkcan/elemental-design-elements/d4d2ca90fa6611418e33cc4b24dbef35d32b0b25/renders/transformer_example.drawio.svg" />](https://github.com/mkturkcan/elemental-design-elements/blob/main/examples/transformer/transformer_example.drawio)
 
 ## Prototype
 
